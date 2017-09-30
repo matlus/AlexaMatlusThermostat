@@ -1,0 +1,16 @@
+{
+  "name": "alexa-matlus-io-tthermostat",
+  "version": "0.0.0",
+  "description": "Alexa-MatlusIoTThermostat",
+  "main": "app.js",
+  "author": {
+    "name": "Shiv Kumar",
+    "url": "http://www.matlus.com"
+  },
+  "dependencies": {
+    "@types/node": "^8.0.31",
+    "alexa-sdk": "^1.0.14",
+    "async-mqtt": "^1.0.1",
+    "mqtt": "^2.13.0"
+  }
+}
