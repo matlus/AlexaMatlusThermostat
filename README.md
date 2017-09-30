@@ -1,5 +1,5 @@
 ﻿# Alexa-MatlusIoTThermostat
-This is a Visual Studio Code project for the Alexa Skill related to the Alexa Controlled Matlus IoT Multizone Thermostat.
+This is a [Visual Studio Code](https://code.visualstudio.com/) project for the Alexa Skill related to the [Alexa Controlled Matlus IoT Multizone Thermostat](https://github.com/matlus/MultizoneThermostat).
 The app.ts file has been configued as the start up file for local debugging. However, on AWS, the index.ts file is the entry point.
 
 The other TypeScript classes:
